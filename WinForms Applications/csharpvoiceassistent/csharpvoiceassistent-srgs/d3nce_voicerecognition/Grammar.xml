@@ -1,0 +1,49 @@
+﻿<grammar version="1.0" xml:lang="de-DE" root="rootRule"
+         xmlns="http://www.w3.org/2001/06/grammar">
+
+  <rule id="rootRule">
+    <one-of>
+    <item> hallo </item>
+    <item> wie geht es dir </item>
+    <item> wie spät ist es </item>
+    <item> welcher tag ist heute </item>
+    <item> youtube ist da </item>
+    <item> was ist </item>
+    <item> spiel musik </item>
+    <item> informationen über mein verzeichnis </item>
+    <item> welche ordner sind in meinem verzeichnis </item>
+    <item> sprich </item>
+    <item> still </item>
+    <item> wie ist das wetter </item>
+    <item> wie ist die temperatur </item>
+    <item> vollbild </item>
+    <item> verschwinde </item>
+    <item> zeig dich </item>
+    <item> informationen verzeichnis </item>
+    <item> ton ausschalten </item>
+    <item> ton einschalten </item>
+    <item> lauter </item>
+    <item> leiser </item>
+    <item> arbeitsspeicher </item>
+    <item> YouTube </item>
+    <item> Hausschwein </item>
+    <item> ofen </item>
+    <item> germanismus </item>
+    <item> programmieren </item>
+    <item> suche nach </item>
+    <item> was ist hier los </item>
+    <item> lies mir vor </item>
+    <item> wer bist du </item>
+    <item> bei facebook anmelden </item>
+    <item> spiel musik </item>
+    <item> musik stoppen </item>
+    <item> musik pausieren </item>
+    <item> musik fortsetzten </item>
+    <item> musik lauter </item>
+    <item> musik leiser </item>
+    <item> spotify abspielen </item>
+    <item> spotify pausieren </item>
+    </one-of>
+  </rule>
+
+</grammar>
